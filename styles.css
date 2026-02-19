@@ -17,22 +17,20 @@ body {
 
 #hero {
     background-image: url("images/bariloche.png");
-    background-position-y: center;
-    background-size: cover;
-    padding: 10px 0 40px 0;
+    padding: 85px 0px;
 }
 
 #titulo {
-    width: 40%;
-    padding: 6px 12px;
+    width: 35%;
+    padding: 4px 8px;
     background: white;
-    margin: 30px auto 0px;
+    margin: 8px auto 0px;
     border-radius: 10px;
 }
 
 #subtitulo {
     width: 60%;
-    padding: 6px 12px;
+    padding: 4px 12px;
     background: white;
     margin: 10px auto;
     border-radius: 10px;
@@ -51,6 +49,10 @@ body {
     /* border: 1px solid black; */
     padding: 10px;
     margin: 10px;
+}
+
+.circulo {
+    border-radius: 50%;
 }
 
 #refugios-titulo {
