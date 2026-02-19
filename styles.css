@@ -1,0 +1,15 @@
+:root {
+    --charcoal-brown: #212922ff;
+    --pine-teal: #294936ff;
+    --granite: #3e6259ff;
+    --muted-teal: #87ab91ff;
+    --white: #f0f0f0ff;
+}
+
+body {
+    margin: 0 auto;
+    width: 720px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
