@@ -59,6 +59,35 @@ body {
     width: 60%;
     padding: 6px 12px;
     background: rgb(151, 252, 0);
-    margin: 15px auto 0px;
+    margin: 20px auto 0px;
     border-radius: 10px;
+}
+
+#imagen-perfil {
+    width: 150px;
+    height: 200px;
+    margin: auto 10px auto 30px;
+    border-radius: 8px;
+}
+
+#guia-info {
+    margin: 20px 30px 40px 30px;
+    padding-top: 20px;
+}
+
+#guia-box {
+    width: 450px;
+    margin: 90px auto;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #8533ff;
+    color: #2b2839;
+    border-radius: 20px;
+    border-bottom: 6px solid #d8cefe;
+}
+
+#guia-text {
+    font-style: italic;
 }
